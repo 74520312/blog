@@ -22,7 +22,7 @@ export default hopeTheme({
   //排序规则
   // sidebarSorter: "date-desc",
 
-  logo: "/assets/images/002.jpg",
+  logo: "https://gitee.com/ssmspace/typora_img/raw/master/images/002.jpg",
 
   repo: "vuepress-theme-hope/vuepress-theme-hope",
 
