@@ -2,8 +2,8 @@
 home: true
 layout: Blog
 icon: house
-# bgImage: https://hbzoss.yaash.cn/image/79392783724cecbe@middle
-bgImage: https://hbzoss.yaash.cn/image/2dded35dba805859@middle
+bgImage: https://hbzoss.yaash.cn/image/79392783724cecbe@middle
+# bgImage: https://gitee.com/ssmspace/typora_img/raw/master/images/79392783724cecbe@middle.jpg
 # bgImage: 
 title: 首页
 # heroImage: https://theme-hope-assets.vuejs.press/logo.svg
