@@ -7,7 +7,7 @@ bgImage: https://hbzoss.yaash.cn/image/2dded35dba805859@middle
 # bgImage: 
 title: 首页
 # heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-heroImage: /.vuepress/public/004.jpg
+heroImage: /assets/images/004.jpg
 # heroImage: https://hbzoss.yaash.cn/image/ce60d38bd2e68db0@middle <p style="color:red;">
 heroText: 沉浸在万花筒写轮眼的幻术中吧
 heroFullScreen: true
