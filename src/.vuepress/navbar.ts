@@ -62,6 +62,11 @@ export default navbar([
     icon: "dinkie-icons:fox-face",
     link: "/document/daily/",
   },
+  {
+    text: "我的简历",
+     icon: "face-smile",
+    link: "/document/interview/interview.html",
+  },
 
   {
     text: "时间轴",

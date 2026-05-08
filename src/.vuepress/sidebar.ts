@@ -36,6 +36,13 @@ export default sidebar({
       children: "structure",
     },
     {
+      text: "面试相关",
+      icon: "material-symbols:work-outline",
+      prefix: "interview/",
+      collapsible: true,
+      children: "structure",
+    },
+    {
       text: "博客教程",
       icon: "gears",
       prefix: "demo/",
